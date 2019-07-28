@@ -1,0 +1,2 @@
+alias lh="ls -lah"
+alias nano="vim"

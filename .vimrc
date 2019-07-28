@@ -1,0 +1,2 @@
+color slate
+set number
